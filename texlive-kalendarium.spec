@@ -1,6 +1,6 @@
 Name:		texlive-kalendarium
 Version:	48744
-Release:	1
+Release:	2
 Summary:	Print dates according to the classical Latin calendar
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kalendarium
