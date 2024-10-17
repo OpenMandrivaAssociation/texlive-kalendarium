@@ -3,7 +3,7 @@ Version:	48744
 Release:	2
 Summary:	Print dates according to the classical Latin calendar
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kalendarium
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kalendarium
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kalendarium.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kalendarium.doc.r%{version}.tar.xz
